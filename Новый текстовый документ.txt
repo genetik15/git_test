@@ -1,0 +1,9 @@
+git init
+
+git add .
+
+git commit -m "go"
+
+ git remote add origin  https://github.com/genetik15/vue_cli.git 
+
+ git push --set-upstream origin master
